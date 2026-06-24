@@ -13,30 +13,6 @@
 - Past stints at **ConglomerateIT** and **CoLab**
 - Deep in a final-year project on **RAG evaluation & reliability** — because someone has to tell you when your chatbot is confidently wrong
 
----
-
-### 📊 GitHub stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AvraCodes&show_icons=true&theme=default&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AvraCodes&layout=compact&hide_border=true&theme=default" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AvraCodes&hide_border=true&theme=default" width="60%" />
-</p>
-
-### 🧠 Skill matrix
-
-| Domain | Stack | Proficiency |
-|---|---|---|
-| **ML / AI Systems** | RAG pipelines, LLM integration, OpenAI API, NLI-based eval | ████████░░ Production |
-| **Data Science** | Pandas, NumPy, scikit-learn | ███████░░░ Strong |
-| **Full-stack Dev** | React, Next.js, Node.js, FastAPI, Flask | ████████░░ Production |
-| **Infra / Backend** | PostgreSQL, Redis, Docker, WebSockets | ███████░░░ Strong |
-
-*("Production" = shipped and used in a real project below, not a tutorial I followed once.)*
-
 ### 🛠️ What I build with
 
 **Full-stack**
@@ -57,8 +33,6 @@
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
----
-
 ### 🚀 Things I've shipped
 
 - **RAG Evaluation Framework** — retrieval scoring, hallucination detection via NLI, because trust but verify
@@ -66,9 +40,6 @@
 - **Data Analyst Agent** — FastAPI + RAG + OpenAI + PostgreSQL, ask your data questions and get answers, not vibes
 - **Comment Toxicity Classifier** — TF-IDF + ensemble methods, 85%+ accuracy across 6 categories of internet behavior
 
-### 📫 Find me
-
-[![GitHub](https://img.shields.io/badge/-AvraCodes-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/AvraCodes)
 
 ---
 
