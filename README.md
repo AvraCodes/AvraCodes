@@ -40,7 +40,6 @@
 - **Data Analyst Agent** — FastAPI + RAG + OpenAI + PostgreSQL, ask your data questions and get answers, not vibes
 - **Comment Toxicity Classifier** — TF-IDF + ensemble methods, 85%+ accuracy across 6 categories of internet behavior
 
-
 ---
 
 <p align="center"><i>Currently debugging either code or a gadget purchase decision. Sometimes both.</i></p>
